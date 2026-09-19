@@ -1,0 +1,37 @@
+@import "tailwindcss";
+
+.radial-blue{
+    background: radial-gradient(lightyellow, skyblue);
+}
+
+.main-color{
+    background: #F2EFE6;
+}
+
+.main-color-fade{
+    background: rgba(255, 255, 255, 0.413);
+}
+
+.main-color-fade-2{
+    background: rgba(255, 255, 255, 0.167);
+}
+
+.main-font{
+    font-family:'Inter',sans-serif;
+}
+
+.prim-color{
+    color:#22315C;
+}
+
+.prim-background{
+    background:#22315C;
+}
+
+.prim-border{
+    border-color:#22315C;
+}
+
+.sec-color{
+    background:#EFA23B;
+}
